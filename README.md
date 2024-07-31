@@ -1,2 +1,2 @@
 # my_projects
-my projects
+This repository include my projects in machine and deep learning
